@@ -2,4 +2,4 @@
 
 ### 인공지능응용 교과에서 사용되는 노트입니다.
 
-Copyright 2021. Ki-Baek Lee all rights reserved.
+Copyright 2021. (Ki-Baek Lee, kblee@kw.ac.kr) all rights reserved.
