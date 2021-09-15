@@ -1,3 +1,5 @@
 # 인공지능응용 - 광운대학교 전기공학과
 
 ### 인공지능응용 교과에서 사용되는 노트입니다.
+
+Copyright 2021. Ki-Baek Lee all rights reserved.
